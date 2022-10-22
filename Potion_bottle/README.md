@@ -1,6 +1,6 @@
 # Potion_bottle asset
 ## About
-The file contains a fbx of a ow poly potion made using blender as well as the shader allowing to orient the liquid with respect to the ground.
+The file contains a fbx of a low poly potion made using blender as well as the shader allowing to orient the liquid with respect to the ground.
 
 <img width="588" alt="image" src="https://user-images.githubusercontent.com/90778036/197356997-51ead3cf-7122-4240-9e13-6ece82c8838c.png">
 
