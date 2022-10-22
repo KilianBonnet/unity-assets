@@ -1,4 +1,4 @@
-# Potionn_bottle asset
+# Potinn_bottle asset
 ## About
 The file contains a fbx of a ow poly potion made using blender as well as the shader allowing to orient the liquid with respect to the ground.
 
